@@ -4,9 +4,9 @@ When it came to recreating the design I had developed through the Visual Challen
 
 Learning to organize my html/css was a challenging, yet fun experience that is easy to see how improtant it is to keep simple, efficient, and easy to read.
 
-My first challenge was needing to figure out where everything needed to go in the first place. Organizing my html with the basic "<header>, <main>, <footer>" format definitely aided in the process. Even with this, I ended up rather <div> heavy, which isn't all that pretty, and difficult to read, but at that the time, that was the only solution I really knew. 
+My first challenge was needing to figure out where everything needed to go in the first place. Organizing my html with the basic "header", "main", "footer" format definitely aided in the process. Even with this, I ended up rather <div> heavy, which isn't all that pretty, and difficult to read, but at that the time, that was the only solution I really knew. 
   
-The scrollable container that holds the bus info is an example of too many <div> elements in my html. It was pointed out to me that putting that info into a <table> could help clean up the html, in which it did beautifully.  Discovering better solutions such as that proved to be a great learning tool, and very welcome input.
+The scrollable container that holds the bus info is an example of too many "div" elements in my html. It was pointed out to me that putting that info into a "table" could help clean up the html, in which it did beautifully.  Discovering better solutions such as that proved to be a great learning tool, and very welcome input.
   
   I still face issues mind you. When concerning the table information, not everything lines up the way I would like them to. Adjusting the widths in each "class" will help in some areas, but affect other areas. 
   
